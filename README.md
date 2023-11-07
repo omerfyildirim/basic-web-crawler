@@ -1,2 +1,2 @@
 # basic-web-crawler
-Java, Selenium, and Spring Boot
+It made with Java, Selenium, Safari Web Driver.
