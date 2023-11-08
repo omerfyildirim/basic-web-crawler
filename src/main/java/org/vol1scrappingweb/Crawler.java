@@ -32,7 +32,7 @@ public class Crawler {
                 String price = priceElement.getText();
                 String description = descriptionElement.getText();
 
-                //ID ile description isteğe göre yer değiştirebilir.
+                //**
                 System.out.println("Page " + page);
                 System.out.println("ID         : " + id);
                 System.out.println("Title      : " + title);
